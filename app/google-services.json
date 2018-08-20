@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1013323692858",
+    "firebase_url": "https://delendemo.firebaseio.com",
+    "project_id": "delendemo",
+    "storage_bucket": "delendemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013323692858:android:a4b7797128e4698a",
+        "android_client_info": {
+          "package_name": "ravi.developer.com.delendemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013323692858-tsn9npp7v9kmc90dhf4haiv1098sacts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ravi.developer.com.delendemo",
+            "certificate_hash": "a7e14648be23d7fdd60f8da2589965da414d7b10"
+          }
+        },
+        {
+          "client_id": "1013323692858-msv06qk7s8nofjdkfajo3g7qkaona7mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiX__c_7W846J57J-orNk5KzYLVFNVcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013323692858-msv06qk7s8nofjdkfajo3g7qkaona7mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

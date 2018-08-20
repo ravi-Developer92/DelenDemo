@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DelenDemo</string>
+
+    <string-array name="servicetype">
+        <item>Beautician</item>
+        <item>Electrician</item>
+        <item>Painter</item>
+        <item>Plumber</item>
+    </string-array>
+
+    <!--          =================KEYS===================            -->
+    <string name="servicetype">SERVICE_TYPE_KEY</string>
+    <string name="date">DATE_KEY</string>
+    <string name="address">ADDRESS_KEY</string>
+    <string name="servicereq">SERVICE_REQUIRED</string>
+    <string name="orderid">ORDER_ID_KEY</string>
+    <string name="charges">CHARGES_ID</string>
+    <string name="status">STATUS_KEY</string>
+    <string name="servicemanname">SERVICE_MAN_NAME_KEY</string>
+    <string name="sm_dp">SM_DP</string>
+</resources>
